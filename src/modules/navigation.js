@@ -7,11 +7,11 @@ class Navigation extends React.Component {
     //react uses one main div
     <div id="navigation">
      <ul>
-       <li><a href="#">Home</a></li>
-       <li><a href="#">About</a></li>
-       <li><a href="#">Photos</a></li>
-       <li><a href="#">Live</a></li>
-       <li><a href="#">Contact</a></li>
+       <li><a href="index.html">Home</a></li>
+       <li><a href="about.html">About</a></li>
+       <li><a href="photos.html">Photos</a></li>
+       <li><a href="live.html">Live</a></li>
+       <li><a href="contact.html">Contact</a></li>
      </ul>
    </div>
     );
