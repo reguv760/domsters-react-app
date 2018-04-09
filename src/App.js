@@ -3,7 +3,9 @@ import React from 'react';
 
 import Header from './modules/header';
 import Navigation from './modules/navigation';
+
 import './App.css';
+import './css/fonts.css';
 import './css/colors.css';
 import './css/typography.css';
 

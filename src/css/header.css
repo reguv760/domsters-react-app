@@ -1,0 +1,12 @@
+#header {
+  /*background-image: url(../images/guitarist.gif);*/
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  border-width: .1em;
+  border-style: solid;
+  border-bottom-width: 0;
+
+  color: #ec8;
+  background-color: #334;
+  border-color: #667;
+}
